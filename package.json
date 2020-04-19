@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ricardofct/game#readme",
   "dependencies": {
-    "@types/three": "^0.103.2"
+    "@types/three": "^0.103.2",
+    "dat.gui": "^0.7.7"
   }
 }
